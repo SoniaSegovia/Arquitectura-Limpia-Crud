@@ -37,3 +37,5 @@ D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\obj\Debug\net7.0\ref
 D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\obj\Debug\net7.0\Web.API.pdb
 D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\obj\Debug\net7.0\Web.API.genruntimeconfig.cache
 D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\obj\Debug\net7.0\ref\Web.API.dll
+D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\bin\Debug\net7.0\MediatR.dll
+D:\Escritorio\Arquitectura-Limpia-Crud\SoniaEasyPOS\Web.API\bin\Debug\net7.0\MediatR.Contracts.dll

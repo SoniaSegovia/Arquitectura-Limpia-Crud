@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "vje8rs0II+C6GSDfoLIyK/cAe9jRSJh0PbI8Nk+rmoQe2bRtwerhY50pTphuYz14WhKpiTwh0K1HzqyWYzv8gg==",
+  "dgSpecHash": "umBCffTR+W+pIZUqPgR6A/K8MKi0GHPWQAejuNwmVLJtQ0KoQOdBxwWsoA7t3EU3uKa/62Zp7AkQyhxYC3Xfbw==",
   "success": true,
   "projectFilePath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
