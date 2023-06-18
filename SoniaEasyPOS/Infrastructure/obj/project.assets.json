@@ -137,11 +137,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\obj\\",
+      "outputPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -162,8 +162,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
-              "projectPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Domain\\Domain.csproj"
+            "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Domain\\Domain.csproj": {
+              "projectPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Domain\\Domain.csproj"
             }
           }
         }

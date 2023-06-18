@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S2j2fyVq5LsIrP2XabKdxvd08WVZs6PcRfVqgPEqCoTZN/o2dW4Hpc46lh4YvyoYIpMw8eGnPdABwZQ0vaZsZQ==",
+  "dgSpecHash": "UH+Yck6xF+vAARGgdkhYVTs7c5d9diMW4MEpeUCuSbUxVtSGB55qXBJ8/I2/PHBROb62JT6XY0solZoI7FzdOw==",
   "success": true,
-  "projectFilePath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
     "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

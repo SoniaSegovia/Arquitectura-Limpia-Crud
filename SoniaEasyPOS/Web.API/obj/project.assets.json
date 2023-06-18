@@ -633,11 +633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
+      "projectUniqueName": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
       "projectName": "Web.API",
-      "projectPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
+      "projectPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\Web.API.csproj",
       "packagesPath": "C:\\Users\\Sonia M. Segovia\\.nuget\\packages\\",
-      "outputPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\obj\\",
+      "outputPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Web.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -659,11 +659,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Application\\Application.csproj": {
-              "projectPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Application\\Application.csproj"
+            "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Application\\Application.csproj": {
+              "projectPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Application\\Application.csproj"
             },
-            "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "D:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj"
+            "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "d:\\Escritorio\\Arquitectura-Limpia-Crud\\SoniaEasyPOS\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
